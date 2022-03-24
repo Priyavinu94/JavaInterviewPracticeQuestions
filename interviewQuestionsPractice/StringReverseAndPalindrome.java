@@ -1,4 +1,4 @@
-//Program to reverse a string and check if it is a palindrome
+// Program to reverse a string and check if it is a palindrome
 package interviewQuestionsPractice;
 
 import java.util.Scanner;
